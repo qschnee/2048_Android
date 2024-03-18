@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="goal">Join the numbers and get to the 2048 tile !</string>
+    <string name="rules">HOW TO PLAY : Swipe UP, Down, Left or Right to move the tiles. When two neighbouring tiles with the same number merge, the number doubles.</string>
+</resources>
